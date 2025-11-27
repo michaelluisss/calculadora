@@ -1,0 +1,19 @@
+.main{
+    background-color: rgb(69, 154, 230);
+    margin: 200px;
+    width: 140px;
+}
+button{
+    background-color: rgb(170, 221, 221);
+    width: 35px;
+    height: 24px;
+}
+input{
+    width: 132px;
+    text-align: right;
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
